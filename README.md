@@ -1,11 +1,11 @@
-# Satellite Project — Legacy Repository
+# Satellite Project — repositório histórico
 
-Este repositório foi mantido apenas como referência histórica.
+Este repositório foi preservado como referência histórica e **não contém a versão atual do rastreador**.
 
-A versão atual e documentada da ferramenta de rastreamento de satélites LEO está disponível em:
+A implementação documentada, com código Python, dependências e instruções de execução, está em:
 
-**joseaugustocpedro/artigo-qualif-rastreador-satelite**
+**[Rastreador de Satélites LEO — projeto principal](https://github.com/joseaugustocpedro/artigo-qualif-rastreador-satelite)**
 
-Projeto principal: ferramenta em Python para previsão de passagens da ISS sobre Santos, SP, utilizando Skyfield e dados TLE do CelesTrak.
+O projeto principal calcula janelas de visibilidade da Estação Espacial Internacional (ISS) sobre Santos, SP, usando **Skyfield** e dados orbitais **TLE do CelesTrak**.
 
-> Para avaliação técnica e portfólio, consulte o repositório principal indicado acima.
+> Para avaliar código e documentação, utilize o repositório principal. Esta página é mantida somente para preservar referências antigas.
